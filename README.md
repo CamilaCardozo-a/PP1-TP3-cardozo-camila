@@ -11,8 +11,6 @@ El objetivo es comprender y explicar los aspectos fundamentales de esta normativ
 
 ✅ Las responsabilidades de quienes manejan información de terceros
 
-✅ La aplicación práctica de la ley en distintos contextos
-
 
 ✍️ Nombre y Apellido: Camila Cardozo
 
