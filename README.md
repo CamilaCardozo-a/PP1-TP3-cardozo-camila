@@ -12,6 +12,8 @@ El objetivo es comprender y explicar los aspectos fundamentales de esta normativ
 ✅ Las responsabilidades de quienes manejan información de terceros
 
 
+📌 Este trabajo práctico tiene como objetivo aplicar los conocimientos adquiridos sobre Git, HTML y CSS utilizando (opcionalmente) el framework Bootstrap.
+
 ✍️ Nombre y Apellido: Camila Cardozo
 
 📅 Fecha entrega limite: 02/07 18hs
